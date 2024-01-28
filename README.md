@@ -1,4 +1,4 @@
-#Hey there! 
+#Hey there!👋👋
 I'm Akshay, a passionate coding enthusiast with a knack for turning ideas into reality through technology. My coding journey spans across various languages, including Python, HTML, JavaScript, C++, and C. 
 I excel in full-stack web development, leveraging the MERN stack, and bring data to life with MySQL.
 
